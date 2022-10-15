@@ -1,1 +1,2 @@
-# Python-freeccamp-
+# Python-freeccamp
+Practricing the basics of Python.
